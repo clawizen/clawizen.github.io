@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "mario kart",
+    "description": "",
+    "home_page_url": "https://mariokartforthenintendowii.me",
+    "feed_url": "https://mariokartforthenintendowii.me/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "nintendo"
+    },
+    "items": [
+    ]
+}
