@@ -3,12 +3,46 @@
     <title>mario kart</title>
     <link href="https://mariokartforthenintendowii.me/feed.xml" rel="self" />
     <link href="https://mariokartforthenintendowii.me" />
-    <updated>2021-02-05T17:24:57+00:00</updated>
+    <updated>2021-02-05T17:54:06+00:00</updated>
     <author>
         <name>nintendo</name>
     </author>
     <id>https://mariokartforthenintendowii.me</id>
 
+    <entry>
+        <title>mario kart</title>
+        <author>
+            <name>nintendo</name>
+        </author>
+        <link href="https://mariokartforthenintendowii.me/mario-kart-3/"/>
+        <id>https://mariokartforthenintendowii.me/mario-kart-3/</id>
+
+        <updated>2021-02-05T17:54:06+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/eX2wmFJLawM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>mario kart</title>
+        <author>
+            <name>nintendo</name>
+        </author>
+        <link href="https://mariokartforthenintendowii.me/mario-kart-2/"/>
+        <id>https://mariokartforthenintendowii.me/mario-kart-2/</id>
+
+        <updated>2021-02-05T17:50:45+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://mariokartforthenintendowii.me/media/posts/3/gallery/great-tutorial.png" data-size="500x338"><img loading="lazy" src="https://mariokartforthenintendowii.me/media/posts/3/gallery/great-tutorial-thumbnail.png" alt="" width="500" height="338"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>justin crawford</title>
         <author>
