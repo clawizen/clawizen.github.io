@@ -3,7 +3,7 @@
     <title>mario kart</title>
     <link href="https://mariokartforthenintendowii.me/feed.xml" rel="self" />
     <link href="https://mariokartforthenintendowii.me" />
-    <updated>2021-02-09T09:54:16+00:00</updated>
+    <updated>2021-02-09T09:58:01+00:00</updated>
     <author>
         <name>nintendo</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://mariokartforthenintendowii.me/mario-kart-4/"/>
         <id>https://mariokartforthenintendowii.me/mario-kart-4/</id>
 
-        <updated>2021-02-09T09:54:16+00:00</updated>
+        <updated>2021-02-09T09:58:01+00:00</updated>
             <summary>
                 <![CDATA[
                     Creation The classic logo used until Mario Kart Arcade GP 2The modern Mario Kart series is widely considered to trace its spiritual origins to the Famicom Grand Prix games, which were released for the Japan-only Family Computer Disk System add-on; these were the first Nintendo racing&hellip;
@@ -182,48 +182,49 @@
 </tbody>
 </table>
 <h3><span id="Arcade_games" class="mw-headline">Arcade games</span></h3>
-<table class="wikitable" width="100%" align="center">
+<table class="wikitable" style="height: 1667px; width: 100%;" width="100%" align="center">
 <tbody>
-<tr>
-<th colspan="2" width="15%">Title</th>
+<tr style="height: 50px;">
+<th style="height: 50px;" colspan="2" width="15%">Title</th>
 </tr>
-<tr>
-<th width="15%">Title and system</th>
-<th width="85%">Description</th>
+<tr style="height: 79px;">
+<th style="height: 79px;" width="15%">Title and system</th>
+<th style="height: 79px;" width="85%">Description</th>
 </tr>
-<tr>
-<th colspan="2"><i><a href="https://www.mariowiki.com/Mario_Kart_Arcade_GP" title="Mario Kart Arcade GP">Mario Kart Arcade GP</a></i></th>
+<tr style="height: 50px;">
+<th style="height: 50px;" colspan="2"><i>Mario Kart Arcade GP</i></th>
 </tr>
-<tr>
-<td align="center"><a href="https://www.mariowiki.com/File:Mario_Kart_Arcade_GP_logo.jpg" class="image"><img loading="lazy" src="https://www.mariowiki.com/images/thumb/d/d8/Mario_Kart_Arcade_GP_logo.jpg/145px-Mario_Kart_Arcade_GP_logo.jpg" data-is-external-image="true"  srcset="/images/thumb/d/d8/Mario_Kart_Arcade_GP_logo.jpg/218px-Mario_Kart_Arcade_GP_logo.jpg 1.5x, /images/thumb/d/d8/Mario_Kart_Arcade_GP_logo.jpg/290px-Mario_Kart_Arcade_GP_logo.jpg 2x" alt="Mario Kart Arcade GP logo.jpg" width="145" height="39" data-file-width="1183" data-file-height="320"></a><br><a href="https://www.mariowiki.com/File:Flag_of_USA.png" class="image" title="USA"><img loading="lazy" src="https://www.mariowiki.com/images/thumb/6/6a/Flag_of_USA.png/25px-Flag_of_USA.png" data-is-external-image="true"  srcset="/images/thumb/6/6a/Flag_of_USA.png/38px-Flag_of_USA.png 1.5x, /images/thumb/6/6a/Flag_of_USA.png/50px-Flag_of_USA.png 2x" alt="USA" width="25" height="13" data-file-width="1235" data-file-height="650"></a> October 10, 2005 <br>Arcade Machine</td>
-<td><i>Mario Kart Arcade GP</i> was the first <i>Mario Kart</i> title to be developed by <a href="https://www.mariowiki.com/Bandai_Namco_Entertainment" title="Bandai Namco Entertainment">Namco</a> and the first game in the series for arcades, released in 2005.
-<p>Designed for Nintendo's <a href="https://en.wikipedia.org/wiki/Triforce_(arcade_system_board)" class="extiw" title="wikipedia:Triforce (arcade system board)">Triforce</a> arcade board, <i>Arcade GP</i> features 11 playable characters and 24 tracks. As in other arcade racing games, players are required to drive to the goal under a limited amount of time. The machine also features many more items than the Nintendo titles, and houses a camera that will take a photograph of the player's face to display above the player-character during multiplayer races. This is the first <i>Mario Kart</i> game where characters originating from outside the <i>Mario</i> franchise and its sub-series are playable, as three characters from the <a href="https://en.wikipedia.org/wiki/List_of_Pac-Man_video_games" class="extiw" title="wikipedia:List of Pac-Man video games"><i>Pac-Man</i> games</a>, namely <a href="https://www.mariowiki.com/Pac-Man" title="Pac-Man">Pac-Man</a>, <a href="https://www.mariowiki.com/Ms._Pac-Man" title="Ms. Pac-Man">Ms. Pac-Man</a>, and the ghost <a href="https://www.mariowiki.com/Blinky" title="Blinky">Blinky</a>, are playable.</p>
+<tr style="height: 394px;">
+<td style="height: 394px;" align="center"><img loading="lazy" src="https://www.mariowiki.com/images/thumb/d/d8/Mario_Kart_Arcade_GP_logo.jpg/145px-Mario_Kart_Arcade_GP_logo.jpg" data-is-external-image="true"  srcset="/images/thumb/d/d8/Mario_Kart_Arcade_GP_logo.jpg/218px-Mario_Kart_Arcade_GP_logo.jpg 1.5x, /images/thumb/d/d8/Mario_Kart_Arcade_GP_logo.jpg/290px-Mario_Kart_Arcade_GP_logo.jpg 2x" alt="Mario Kart Arcade GP logo.jpg" width="145" height="39" data-file-width="1183" data-file-height="320"><br><img loading="lazy" src="https://www.mariowiki.com/images/thumb/6/6a/Flag_of_USA.png/25px-Flag_of_USA.png" data-is-external-image="true"  srcset="/images/thumb/6/6a/Flag_of_USA.png/38px-Flag_of_USA.png 1.5x, /images/thumb/6/6a/Flag_of_USA.png/50px-Flag_of_USA.png 2x" alt="USA" width="25" height="13" data-file-width="1235" data-file-height="650"> October 10, 2005 <br>Arcade Machine</td>
+<td style="height: 394px;"><i>Mario Kart Arcade GP</i> was the first <i>Mario Kart</i> title to be developed by Namco and the first game in the series for arcades, released in 2005.
+<p>Designed for Nintendo's Triforce arcade board, <i>Arcade GP</i> features 11 playable characters and 24 tracks. As in other arcade racing games, players are required to drive to the goal under a limited amount of time. The machine also features many more items than the Nintendo titles, and houses a camera that will take a photograph of the player's face to display above the player-character during multiplayer races. This is the first <i>Mario Kart</i> game where characters originating from outside the <i>Mario</i> franchise and its sub-series are playable, as three characters from the <i>Pac-Man</i> games, namely Pac-Man, Ms. Pac-Man, and the ghost Blinky, are playable.</p>
 </td>
 </tr>
-<tr>
-<th colspan="2"><i><a href="https://www.mariowiki.com/Mario_Kart_Arcade_GP_2" title="Mario Kart Arcade GP 2">Mario Kart Arcade GP 2</a></i></th>
+<tr style="height: 50px;">
+<th style="height: 50px;" colspan="2"><i>Mario Kart Arcade GP 2</i></th>
 </tr>
-<tr>
-<td align="center"><a href="https://www.mariowiki.com/File:Mario_Kart_Arcade_GP_2.jpg" class="image"><img loading="lazy" src="https://www.mariowiki.com/images/thumb/b/bf/Mario_Kart_Arcade_GP_2.jpg/145px-Mario_Kart_Arcade_GP_2.jpg" data-is-external-image="true"  srcset="/images/thumb/b/bf/Mario_Kart_Arcade_GP_2.jpg/218px-Mario_Kart_Arcade_GP_2.jpg 1.5x, /images/b/bf/Mario_Kart_Arcade_GP_2.jpg 2x" alt="Mario Kart Arcade GP 2.jpg" width="145" height="55" data-file-width="238" data-file-height="90"></a><br><a href="https://www.mariowiki.com/File:Flag_of_Japan.png" class="image" title="Japan"><img loading="lazy" src="https://www.mariowiki.com/images/thumb/6/60/Flag_of_Japan.png/25px-Flag_of_Japan.png" data-is-external-image="true"  srcset="/images/thumb/6/60/Flag_of_Japan.png/38px-Flag_of_Japan.png 1.5x, /images/thumb/6/60/Flag_of_Japan.png/50px-Flag_of_Japan.png 2x" alt="Japan" width="25" height="17" data-file-width="900" data-file-height="600"></a> 2007 <br>Arcade Machine</td>
-<td><i>Mario Kart Arcade GP 2</i> was released to arcades in 2007/2008. It features the same playable characters as its predecessor, but also adds <a href="https://www.mariowiki.com/Waluigi" title="Waluigi">Waluigi</a> and crosses over <a href="https://www.mariowiki.com/Mametchi" title="Mametchi">Mametchi</a> from the <i><a href="https://en.wikipedia.org/wiki/Tamagotchi" class="extiw" title="wikipedia:Tamagotchi">Tamagotchi</a></i> series (the former being previously playable in the main <i>Mario Kart</i> series, and the latter making their only <i>Mario</i> appearance overall). This game also introduces unique karts for each character, as in the main games from <i>Mario Kart DS</i> onward; more items unseen in the normal installments; and <a href="https://en.wikipedia.org/wiki/Color_commentary" class="extiw" title="wikipedia:Color commentary">color commentary</a>, which can be toggled on or off at any time prior to starting the race.</td>
+<tr style="height: 282px;">
+<td style="height: 282px;" align="center"><img loading="lazy" src="https://www.mariowiki.com/images/thumb/b/bf/Mario_Kart_Arcade_GP_2.jpg/145px-Mario_Kart_Arcade_GP_2.jpg" data-is-external-image="true"  srcset="/images/thumb/b/bf/Mario_Kart_Arcade_GP_2.jpg/218px-Mario_Kart_Arcade_GP_2.jpg 1.5x, /images/b/bf/Mario_Kart_Arcade_GP_2.jpg 2x" alt="Mario Kart Arcade GP 2.jpg" width="145" height="55" data-file-width="238" data-file-height="90"><br><img loading="lazy" src="https://www.mariowiki.com/images/thumb/6/60/Flag_of_Japan.png/25px-Flag_of_Japan.png" data-is-external-image="true"  srcset="/images/thumb/6/60/Flag_of_Japan.png/38px-Flag_of_Japan.png 1.5x, /images/thumb/6/60/Flag_of_Japan.png/50px-Flag_of_Japan.png 2x" alt="Japan" width="25" height="17" data-file-width="900" data-file-height="600"> 2007 <br>Arcade Machine</td>
+<td style="height: 282px;"><i>Mario Kart Arcade GP 2</i> was released to arcades in 2007/2008. It features the same playable characters as its predecessor, but also adds Waluigi and crosses over Mametchi from the <i>Tamagotchi</i> series (the former being previously playable in the main <i>Mario Kart</i> series, and the latter making their only <i>Mario</i> appearance overall). This game also introduces unique karts for each character, as in the main games from <i>Mario Kart DS</i> onward; more items unseen in the normal installments; and color commentary, which can be toggled on or off at any time prior to starting the race.</td>
 </tr>
-<tr>
-<th colspan="2"><i><a href="https://www.mariowiki.com/Mario_Kart_Arcade_GP_DX" title="Mario Kart Arcade GP DX">Mario Kart Arcade GP DX</a></i></th>
+<tr style="height: 50px;">
+<th style="height: 50px;" colspan="2"><i>Mario Kart Arcade GP DX</i></th>
 </tr>
-<tr>
-<td align="center"><a href="https://www.mariowiki.com/File:MKGPDX.png" class="image"><img loading="lazy" src="https://www.mariowiki.com/images/thumb/8/8d/MKGPDX.png/145px-MKGPDX.png" data-is-external-image="true"  srcset="/images/thumb/8/8d/MKGPDX.png/218px-MKGPDX.png 1.5x, /images/thumb/8/8d/MKGPDX.png/290px-MKGPDX.png 2x" alt="MKGPDX.png" width="145" height="41" data-file-width="400" data-file-height="112"></a><br><a href="https://www.mariowiki.com/File:Flag_of_Japan.png" class="image" title="Japan"><img loading="lazy" src="https://www.mariowiki.com/images/thumb/6/60/Flag_of_Japan.png/25px-Flag_of_Japan.png" data-is-external-image="true"  srcset="/images/thumb/6/60/Flag_of_Japan.png/38px-Flag_of_Japan.png 1.5x, /images/thumb/6/60/Flag_of_Japan.png/50px-Flag_of_Japan.png 2x" alt="Japan" width="25" height="17" data-file-width="900" data-file-height="600"></a> July 25, 2013 <br>Arcade Machine</td>
-<td><i>Mario Kart Arcade GP DX</i> is the third <i>Mario Kart</i> game for arcades, released in 2013. It adds <i>Mario Kart 7</i>'s gliders<sup id="cite_ref-3" class="reference"><a href="https://www.mariowiki.com/Mario_Kart_(series)#cite_note-3">[3]</a></sup> and submersible karts, plus new playable characters to the arcade installments, <a href="https://www.mariowiki.com/Bowser_Jr." title="Bowser Jr.">Bowser Jr.</a>, <a href="https://www.mariowiki.com/Rosalina" title="Rosalina">Rosalina</a>, <a href="https://www.mariowiki.com/Metal_Mario" class="mw-disambig" title="Metal Mario">Metal Mario</a>, <a href="https://www.mariowiki.com/Baby_Mario" title="Baby Mario">Baby Mario</a>, <a href="https://www.mariowiki.com/Baby_Peach" title="Baby Peach">Baby Peach</a>, <a href="https://www.mariowiki.com/Princess_Daisy" title="Princess Daisy">Daisy</a>, <a href="https://www.mariowiki.com/King_Boo" title="King Boo">King Boo</a> and <a href="https://www.mariowiki.com/Lakitu" title="Lakitu">Lakitu</a>, the latter seven being characters added through game updates (while King Boo could only be obtained through a limited-time event). Additionally, <a href="https://www.mariowiki.com/Don-chan" title="Don-chan">Don-chan</a> crosses over from the <i><a href="https://en.wikipedia.org/wiki/Taiko_no_Tatsujin" class="extiw" title="wikipedia:Taiko no Tatsujin">Taiko no Tatsujin</a></i> series, and Pac-Man is redesigned to use his appearance from the animated television show <i><a href="https://en.wikipedia.org/wiki/Pac-Man_and_the_Ghostly_Adventures" class="extiw" title="wikipedia:Pac-Man and the Ghostly Adventures">Pac-Man and the Ghostly Adventures</a></i>. Two new modes are introduced as well: "Alter-Ego," which uses online functionality to allow players to race against ghosts set by other players; and "Team," which allows two players to face against two computer-controlled opponents, and combine their karts to form a more powerful vehicle.</td>
+<tr style="height: 398px;">
+<td style="height: 398px;" align="center"><img loading="lazy" src="https://www.mariowiki.com/images/thumb/8/8d/MKGPDX.png/145px-MKGPDX.png" data-is-external-image="true"  srcset="/images/thumb/8/8d/MKGPDX.png/218px-MKGPDX.png 1.5x, /images/thumb/8/8d/MKGPDX.png/290px-MKGPDX.png 2x" alt="MKGPDX.png" width="145" height="41" data-file-width="400" data-file-height="112"><br><img loading="lazy" src="https://www.mariowiki.com/images/thumb/6/60/Flag_of_Japan.png/25px-Flag_of_Japan.png" data-is-external-image="true"  srcset="/images/thumb/6/60/Flag_of_Japan.png/38px-Flag_of_Japan.png 1.5x, /images/thumb/6/60/Flag_of_Japan.png/50px-Flag_of_Japan.png 2x" alt="Japan" width="25" height="17" data-file-width="900" data-file-height="600"> July 25, 2013 <br>Arcade Machine</td>
+<td style="height: 398px;"><i>Mario Kart Arcade GP DX</i> is the third <i>Mario Kart</i> game for arcades, released in 2013. It adds <i>Mario Kart 7</i>'s gliders<sup id="cite_ref-3" class="reference">[3]</sup> and submersible karts, plus new playable characters to the arcade installments, Bowser Jr., Rosalina, Metal Mario, Baby Mario, Baby Peach, Daisy, King Boo and Lakitu, the latter seven being characters added through game updates (while King Boo could only be obtained through a limited-time event). Additionally, Don-chan crosses over from the <i>Taiko no Tatsujin</i> series, and Pac-Man is redesigned to use his appearance from the animated television show <i>Pac-Man and the Ghostly Adventures</i>. Two new modes are introduced as well: "Alter-Ego," which uses online functionality to allow players to race against ghosts set by other players; and "Team," which allows two players to face against two computer-controlled opponents, and combine their karts to form a more powerful vehicle.</td>
 </tr>
-<tr>
-<th colspan="2"><i><a href="https://www.mariowiki.com/Mario_Kart_Arcade_GP_VR" title="Mario Kart Arcade GP VR">Mario Kart Arcade GP VR</a></i></th>
+<tr style="height: 90px;">
+<th style="height: 90px;" colspan="2"><i>Mario Kart Arcade GP VR</i></th>
 </tr>
-<tr>
-<td align="center"><a href="https://www.mariowiki.com/File:MKAGPVR_-_logo.png" class="image"><img loading="lazy" src="https://www.mariowiki.com/images/thumb/0/0b/MKAGPVR_-_logo.png/145px-MKAGPVR_-_logo.png" data-is-external-image="true"  srcset="/images/thumb/0/0b/MKAGPVR_-_logo.png/218px-MKAGPVR_-_logo.png 1.5x, /images/thumb/0/0b/MKAGPVR_-_logo.png/290px-MKAGPVR_-_logo.png 2x" alt="MKAGPVR - logo.png" width="145" height="22" data-file-width="385" data-file-height="59"></a><br><a href="https://www.mariowiki.com/File:Flag_of_Japan.png" class="image" title="Japan"><img loading="lazy" src="https://www.mariowiki.com/images/thumb/6/60/Flag_of_Japan.png/25px-Flag_of_Japan.png" data-is-external-image="true"  srcset="/images/thumb/6/60/Flag_of_Japan.png/38px-Flag_of_Japan.png 1.5x, /images/thumb/6/60/Flag_of_Japan.png/50px-Flag_of_Japan.png 2x" alt="Japan" width="25" height="17" data-file-width="900" data-file-height="600"></a> July 14, 2017 <br>Arcade Machine</td>
-<td><i>Mario Kart Arcade GP VR</i> is a <i>Mario Kart</i> arcade game for virtual reality arcades, released by Bandai Namco in Japan.<sup id="cite_ref-4" class="reference">[4]</sup> Instead of using Item Boxes, the game uses balloons to store items, and the player must make hand motions (differing depending on the item used) to use said item. Four arcade cabinets are present in a given location, where players can play as Mario, Luigi, Peach, and Yoshi respectively. A CPU-controlled Bowser and Wario also appear in races.</td>
+<tr style="height: 224px;">
+<td style="height: 224px;" align="center"><img loading="lazy" src="https://www.mariowiki.com/images/thumb/0/0b/MKAGPVR_-_logo.png/145px-MKAGPVR_-_logo.png" data-is-external-image="true"  srcset="/images/thumb/0/0b/MKAGPVR_-_logo.png/218px-MKAGPVR_-_logo.png 1.5x, /images/thumb/0/0b/MKAGPVR_-_logo.png/290px-MKAGPVR_-_logo.png 2x" alt="MKAGPVR - logo.png" width="145" height="22" data-file-width="385" data-file-height="59"><br><img loading="lazy" src="https://www.mariowiki.com/images/thumb/6/60/Flag_of_Japan.png/25px-Flag_of_Japan.png" data-is-external-image="true"  srcset="/images/thumb/6/60/Flag_of_Japan.png/38px-Flag_of_Japan.png 1.5x, /images/thumb/6/60/Flag_of_Japan.png/50px-Flag_of_Japan.png 2x" alt="Japan" width="25" height="17" data-file-width="900" data-file-height="600"> July 14, 2017 <br>Arcade Machine</td>
+<td class="align-left" style="height: 224px;"><i>Mario Kart Arcade GP VR</i> is a <i>Mario Kart</i> arcade game for virtual reality arcades, released by Bandai Namco in Japan.<sup id="cite_ref-4" class="reference">[4]</sup> Instead of using Item Boxes, the game uses balloons to store items, and the player must make hand motions (differing depending on the item used) to use said item. Four arcade cabinets are present in a given location, where players can play as Mario, Luigi, Peach, and Yoshi respectively. A CPU-controlled Bowser and Wario also appear in races.</td>
 </tr>
 </tbody>
 </table>
 <h3><span id="Ports.2Fremakes"></span><span id="Ports/remakes" class="mw-headline">Ports/remakes</span></h3>
+<h3> </h3>
 <table class="wikitable" width="100%" align="center">
 <tbody>
 <tr>
