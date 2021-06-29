@@ -3,12 +3,32 @@
     <title>mario kart</title>
     <link href="https://mariokartforthenintendowii.me/feed.xml" rel="self" />
     <link href="https://mariokartforthenintendowii.me" />
-    <updated>2021-04-18T18:00:36+01:00</updated>
+    <updated>2021-06-29T16:20:14+01:00</updated>
     <author>
         <name>nintendo</name>
     </author>
     <id>https://mariokartforthenintendowii.me</id>
 
+    <entry>
+        <title>mario kart</title>
+        <author>
+            <name>nintendo</name>
+        </author>
+        <link href="https://mariokartforthenintendowii.me/mario-kart-7/"/>
+        <id>https://mariokartforthenintendowii.me/mario-kart-7/</id>
+
+        <updated>2021-06-29T16:20:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                    the kart is Mario
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>the kart is Mario</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>mario karty donky donk</title>
         <author>
